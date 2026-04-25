@@ -80,10 +80,10 @@ http://127.0.0.1:5000/
 ## 📸 Output
 
 ### Attendance System
-![Attendance](attendance.png)
+![Attendance](attendance.png.jpeg)
 
 ### Face Detection
-![Face Detection](face_detection.png)
+![Face Detection](face_detection.png.jpeg)
 
 ## 📌 Future Improvements
 - Use deep learning models for better accuracy
