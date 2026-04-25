@@ -79,7 +79,12 @@ http://127.0.0.1:5000/
 
 ## 📸 Output
 
+## 📸 Output
+
+### Attendance System
 ![Attendance](https://github.com/user-attachments/assets/306652b1-bce5-4c36-a453-fdf5cab16bcb)
+
+### Face Detection
 ![Face Detection](https://github.com/user-attachments/assets/b06e19ff-6f72-4824-9deb-52623ef83c63)
 
 
